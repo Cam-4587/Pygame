@@ -11,7 +11,6 @@ FPS = 60
 
 # Colors
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
 BLUE = (0, 100, 255)
 
 # Create the screen
